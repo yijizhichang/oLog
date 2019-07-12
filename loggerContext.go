@@ -1,0 +1,3 @@
+package oLog
+
+// type loggerContext
