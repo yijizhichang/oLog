@@ -1,4 +1,4 @@
-# QLog
+# oLog
 
 #### 功能
 - [x] 设置日志输出级别debug/info/warn/error/fatal
